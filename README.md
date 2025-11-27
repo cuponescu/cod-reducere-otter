@@ -1,6 +1,6 @@
 # Cod Reducere Otter
 
-O colecție de coduri de reducere Otter. Le folosim pentru testarea cuvintelor cheie cod reducere Otter, voucher Otter, cupon Otter, și cod promotional Otter de pe Cuponescu.ro.
+O colecție de coduri de reducere Otter. Le folosim pentru testarea cuvintelor cheie [cod reducere Otter](https://cuponescu.ro/magazin/otter), [voucher Otter](https://cuponescu.ro/magazin/otter), [cupon Otter](https://cuponescu.ro/magazin/otter), și [cod promotional Otter](https://cuponescu.ro/magazin/otter) de pe Cuponescu.ro.
 
 ## Instalare
 
@@ -36,5 +36,4 @@ console.log(codes)
 
 Cod-reducere-otter a fost creat de echipa de la Cuponescu pentru a ajuta cu testarea.
 
-https://www.cuponescu.ro
-
+https://cuponescu.ro
